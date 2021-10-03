@@ -11,6 +11,43 @@
 
 > Solutions for the [rustlings exercises](https://github.com/rust-lang/rustlings) as of version@4.6.0
 
+## Doing exercises 🏃
+
+- excute
+
+```shell
+rustlings watch
+```
+
+- run
+
+```shell
+rustlings run next # run the next unsolved exercise
+# or
+rustlings run myExercise1 # run single exercise
+```
+
+- hint
+
+```shell
+rustlings hint next
+# or
+rustlings hint myExercise1
+```
+
+- check progress
+
+```shell
+rustlings list
+```
+
+## Progress
+
+| Exercies  | Progress  | Code |
+| :-------: | :-------: | :--: |
+| `variables` | 6/6     | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/variables) |
+| `functions` | 0/5     | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/functions) |
+
 <div align="center">
 
 <sub><sup>Written by <a href="https://github.com/alstn2468">@Minsu Kim</a></sup></sub><small>✌</small>
