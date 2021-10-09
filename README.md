@@ -43,10 +43,11 @@ rustlings list
 
 ## Progress
 
-| Exercies  | Progress  | Code |
-| :-------: | :-------: | :--: |
-| `variables` | 6/6     | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/variables) |
-| `functions` | 0/5     | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/functions) |
+| Exercies    | Progress  | Code                                                                                    |
+| :---------: | :-------: | :-------------------------------------------------------------------------------------: |
+| `variables` | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/variables) |
+| `functions` | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/functions) |
+| `if`        | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/if)        |
 
 <div align="center">
 
