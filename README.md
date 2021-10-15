@@ -43,13 +43,14 @@ rustlings list
 
 ## Progress
 
-| Exercies         | Progress  | Code                                                                                          |
-| :--------------: | :-------: | :-------------------------------------------------------------------------------------------: |
-| `variables`      | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/variables)       |
-| `functions`      | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/functions)       |
-| `if`             | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/if)              |
-| `quiz1`          | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz1.rs)        |
-| `move_semantics` | 0/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)  |
+| Exercies          | Progress  | Code                                                                                          |
+| :---------------: | :-------: | :-------------------------------------------------------------------------------------------: |
+| `variables`       | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/variables)       |
+| `functions`       | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/functions)       |
+| `if`              | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/if)              |
+| `quiz1`           | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz1.rs)        |
+| `move_semantics`  | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)  |
+| `primitive_types` | 0/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types) |
 
 <div align="center">
 
