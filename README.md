@@ -1,6 +1,6 @@
 <h1 align="center">
   <div>Rustlings solution</div><br>
-  <img src="logo.png" alt="fp-ts" width="200">
+  <img src="logo.png" alt="rust" width="200">
 </h1>
 
 <div align="center">
@@ -50,7 +50,8 @@ rustlings list
 | `if`              | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/if)              |
 | `quiz1`           | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz1.rs)        |
 | `move_semantics`  | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)  |
-| `primitive_types` | 0/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types) |
+| `primitive_types` | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types) |
+| `structs`         | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/structs)         |
 
 <div align="center">
 
