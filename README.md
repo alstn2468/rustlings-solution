@@ -52,7 +52,8 @@ rustlings list
 | `move_semantics`  | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)  |
 | `primitive_types` | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types) |
 | `structs`         | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/structs)         |
-| `enums`           | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/enums)           |
+| `enums`           | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/enums)           |
+| `modules`         | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/modules)         |
 
 <div align="center">
 
