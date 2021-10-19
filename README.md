@@ -54,7 +54,8 @@ rustlings list
 | `structs`         | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/structs)         |
 | `enums`           | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/enums)           |
 | `modules`         | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/modules)         |
-| `collections`     | 0/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/collections)     |
+| `collections`     | 4/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/collections)     |
+| `strings`         | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/strings)         |
 
 <div align="center">
 
