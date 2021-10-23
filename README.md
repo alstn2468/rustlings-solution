@@ -56,7 +56,8 @@ rustlings list
 | `modules`         | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/modules)         |
 | `collections`     | 4/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/collections)     |
 | `strings`         | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/strings)         |
-| `quiz2`           | 0/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz2.rs)         |
+| `quiz2`           | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz2.rs)        |
+| `error_handlings` | 0/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/error_handling)  |
 
 <div align="center">
 
