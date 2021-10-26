@@ -59,7 +59,8 @@ rustlings list
 | `quiz2`           | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz2.rs)        |
 | `error_handlings` | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/error_handling)  |
 | `generics`        | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/generics)        |
-| `option`          | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)          |
+| `option`          | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)          |
+| `traits`          | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)          |
 
 <div align="center">
 
