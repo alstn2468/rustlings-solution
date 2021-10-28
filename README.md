@@ -60,7 +60,8 @@ rustlings list
 | `error_handlings` | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/error_handling)  |
 | `generics`        | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/generics)        |
 | `option`          | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)          |
-| `traits`          | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)          |
+| `traits`          | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)          |
+| `tests`           | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)           |
 
 <div align="center">
 
