@@ -61,7 +61,8 @@ rustlings list
 | `generics`        | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/generics)        |
 | `option`          | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)          |
 | `traits`          | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)          |
-| `tests`           | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)           |
+| `tests`           | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)           |
+| `quiz3`           | 0/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz3.rs)        |
 
 <div align="center">
 
