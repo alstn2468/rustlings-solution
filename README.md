@@ -63,7 +63,7 @@ rustlings list
 | `traits`                 | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)                 |
 | `tests`                  | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)                  |
 | `quiz3`                  | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz3.rs)               |
-| `standard_library_types` | 0/7       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/standard_library_types) |
+| `standard_library_types` | 2/7       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/standard_library_types) |
 
 <div align="center">
 
