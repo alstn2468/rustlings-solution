@@ -66,7 +66,8 @@ rustlings list
 | `standard_library_types` | 7/7       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/standard_library_types) |
 | `threads`                | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/threads)                |
 | `macros`                 | 4/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/macros)                 |
-| `quiz4`                  | 0/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz4.rs)               |
+| `quiz4`                  | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz4.rs)               |
+| `clippy`                 | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/clippy)                 |
 
 <div align="center">
 
