@@ -68,7 +68,7 @@ rustlings list
 | `macros`                 | 4/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/macros)                 |
 | `quiz4`                  | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz4.rs)               |
 | `clippy`                 | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/clippy)                 |
-| `conversions`            | 2/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/conversions)            |
+| `conversions`            | 3/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/conversions)            |
 
 <div align="center">
 
