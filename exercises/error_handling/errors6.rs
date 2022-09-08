@@ -26,19 +26,24 @@ impl ParsePosNonzeroError {
     }
 }
 
-fn parse_pos_nonzero(s: &str)
-    -> Result<PositiveNonzeroInteger, ParsePosNonzeroError>
+fn parse_pos_nonzero(s: &str) -> Result<PositiveNonzeroInteger, ParsePosNonzeroError>
 {
-    match s.parse() {
-        Ok(n) => {
-            match PositiveNonzeroInteger::new(n) {
-                Ok(n) => Ok(n),
-                Err(err) => Err(ParsePosNonzeroError::from_creation(err)),
-            }
-        }
-        Err(err) => Err(ParsePosNonzeroError::from_parse_int(err)),
-    }
+    // long way
+    // match s.parse() {
+    //     Ok(n) => {
+    //         match PositiveNonzeroInteger::new(n) {
+    //             Ok(n) => Ok(n),
+    //             Err(err) => Err(ParsePosNonzeroError::from_creation(err)),
+    //         }
+    //     }
+    //     Err(err) => Err(ParsePosNonzeroError::from_parse_int(err)),
+    // }
+
+    // short way
+    let x: i64 = s.parse().map_err(ParsePosNonzeroError::from_parseint)?;
+    PositiveNonzeroInteger::new(x).map_err(ParsePosNonzeroError::from_creation)
 }
+
 
 // Don't change anything below this line.
 
